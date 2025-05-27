@@ -1,5 +1,38 @@
-Hi I`m Jason
-here to learn as much as I can.
-Very Friendly 
-Love bikea, shooting (not animals), Rugby, Battlefield Tours, Reading, History, Travelling
-Can`t wait to be able to create websites!
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hello world</title>
+  </head>
+  <body>
+       <header>
+         Hi!
+       </header>
+
+       <p></p> 
+       <header>M Bikes</header>
+
+
+       <h1>Suzuki GSX750SE</h1>
+
+       <p> <img  src="https://www.motorrad-fuchs.com/relaunch/_upload/_productpic/877/0/0000_1.jpg"/>
+
+       <h1>Bmw K1200LT LUX</h1>
+
+       <p>
+
+       </p>
+       <img src="https://mcn-images.bauersecure.com/wp-images/13511/1440x960/bmwk1200ltnightblack.jpg?mode=max&quality=90&scale=down" alt="">
+
+       <p>
+
+       </p>
+       <a href="https://www.donedeal.ie/motorbikes"> web site </a>.
+
+
+        <body>
+          <i>I get my bikes here!</i> 
+</body>
+
+<h1>But there are much cheaper ones below</h1>
